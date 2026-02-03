@@ -79,9 +79,13 @@ Want to contribute? Fix this garbage mess? You can head over to [CONTRIBUTING.md
 See also the list of [contributors](https://github.com/andyiscool5463/magical-crops/contributors) who participated in this project.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/andyiscool5463/magical-crops/LICENSE.md) file for details
+This project is licensed under the GPL-3.0 License.
 
 ## Acknowledgments
+- This project is a fork of invisicat/Magical-Crops.
+	Original author: Invisicat
+	Modifications by: Tenpo0000	
+	License: GPL-3.0
 
 -   Mark719 for making this mod
 -   You, for playing this mod
